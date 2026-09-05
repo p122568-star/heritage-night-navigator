@@ -13,7 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let allEvents = [];
     let activeMonth = 'all';
-    let favorites = JSON.parse(localStorage.getItem('heritage_favorites') || '[]');
+    let favorites = [];
+    try { favorites = JSON.parse(localStorage.getItem('family_favorites_v2') || '[]'); if (!Array.isArray(favorites)) favorites = []; } catch {}
 
     // Load data from global variable (data.js)
     if (typeof festivalData !== 'undefined') {
@@ -26,9 +27,9 @@ document.addEventListener('DOMContentLoaded', () => {
         allEvents = festivalData.items
             .map((item, index) => ({
                 ...item,
-                id: `event-${index}`
+                id: item.contentid || 'e-' + Array.from(item.title + item.addr1).map(c => c.codePointAt(0).toString(16)).join('-')
             }))
-            .filter(event => event.eventenddate >= todayStr); // Exclude ended events
+            .filter(event => !event.eventenddate || event.eventenddate >= todayStr); // Exclude ended events
         
         // Update info display
         const updateInfo = document.getElementById('update-info');
@@ -123,15 +124,18 @@ document.addEventListener('DOMContentLoaded', () => {
             else if (type === 'favorites') matchesType = favorites.includes(event.id);
             else matchesType = event.type === type;
 
-            const matchesRegion = region === 'all' || event.addr1.includes(region);
+            const groups = {경기: ['경기','인천'], 충청: ['충청','충북','충남','대전','세종'], 경상: ['경상','경북','경남','부산','대구','울산'], 전라: ['전라','전북','전남','광주']};
+            const matchesRegion = region === 'all' || (groups[region] || [region]).some(r => event.addr1.startsWith(r));
             
-            const eventStartMonth = event.eventstartdate.substring(4, 6);
-            const eventEndMonth = event.eventenddate.substring(4, 6);
-            const matchesMonth = activeMonth === 'all' || 
-                                eventStartMonth === activeMonth || 
-                                eventEndMonth === activeMonth;
+            const year = new Date().getFullYear();
+            const monthStart = `${year}${activeMonth}01`;
+            const monthEnd = `${year}${activeMonth}31`;
+            const matchesMonth = activeMonth === 'all' || (event.eventstartdate && event.eventstartdate <= monthEnd && event.eventenddate >= monthStart);
+            const from = document.getElementById('travel-start').value.replaceAll('-', '');
+            const to = document.getElementById('travel-end').value.replaceAll('-', '');
+            const matchesTravel = (!from || (event.eventenddate && event.eventenddate >= from)) && (!to || (event.eventstartdate && event.eventstartdate <= to));
             
-            return matchesSearch && matchesType && matchesRegion && matchesMonth;
+            return matchesTravel && matchesSearch && matchesType && matchesRegion && matchesMonth;
         });
 
         // Sort by start date
@@ -151,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
             favorites.push(id);
         }
         
-        localStorage.setItem('heritage_favorites', JSON.stringify(favorites));
+        try { localStorage.setItem('family_favorites_v2', JSON.stringify(favorites)); } catch { alert('이 브라우저에서는 찜한 행사를 저장할 수 없습니다.'); }
         updateFavoritesCount();
         
         // If current view is 'favorites', re-filter
@@ -207,7 +211,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     ${event.description || '본 행사에 대한 상세 설명이 아직 등록되지 않았습니다.'}
                     <br><br>
                     문화유산 야행은 밤이 주는 특별한 정취와 함께 역사적 가치를 체험할 수 있는 소중한 기회입니다. 
-                    2026년의 아름다운 밤, 소중한 사람들과 함께 잊지 못할 추억을 만들어보세요.
+                    방문 전 주최 측에서 운영 시간, 주차, 예약 여부를 확인하세요.
                 </div>
 
                 <div class="modal-actions">
@@ -257,6 +261,8 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    ['travel-start','travel-end'].forEach(id => document.getElementById(id).addEventListener('change', sortAndFilterEvents));
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal.onclick(); });
     // Event Listeners
     searchInput.addEventListener('input', sortAndFilterEvents);
     typeFilter.addEventListener('change', sortAndFilterEvents);
