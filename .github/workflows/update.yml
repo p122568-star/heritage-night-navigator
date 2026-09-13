@@ -14,7 +14,6 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -41,9 +40,8 @@ jobs:
           mkdir public
           cp index.html style.css script.js data.js public/
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: public
       - uses: actions/deploy-pages@v4
         id: deployment
-
