@@ -23,9 +23,17 @@ jobs:
         with:
           python-version: '3.12'
       - name: Collect festivals
+        continue-on-error: true
         env:
           TOUR_API_KEY: ${{ secrets.TOUR_API_KEY }}
-        run: python festival_search.py
+        run: |
+          for attempt in 1 2 3; do
+            python festival_search.py && exit 0
+            echo "축제 API 수집 실패 (${attempt}/3), 10초 후 재시도합니다."
+            sleep 10
+          done
+          echo "::warning::축제 API가 응답하지 않아 기존 데이터를 유지하고 배포합니다."
+          exit 1
       - name: Save successful snapshot
         run: |
           git config user.name 'github-actions[bot]'
