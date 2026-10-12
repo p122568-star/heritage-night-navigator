@@ -1,5 +1,5 @@
 const festivalData = {
-  "last_updated": "2026-10-05 13:52:29 KST",
+  "last_updated": "2026-10-12 14:12:25 KST",
   "items": [
     {
       "contentid": "3481597",
@@ -312,16 +312,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "606549",
-      "title": "제24회 동강국제사진제",
-      "eventstartdate": "20260717",
-      "eventenddate": "20261011",
-      "addr1": "강원특별자치도 영월군 영월읍 영월로 1909-10",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/56/4075256_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "4089090",
       "title": "〈도기陶器, 우리를 담은 질그릇〉",
       "eventstartdate": "20260729",
@@ -422,16 +412,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "4114329",
-      "title": "국가유산 미디어아트 철원 노동당사",
-      "eventstartdate": "20260911",
-      "eventenddate": "20261011",
-      "addr1": "강원특별자치도 철원군 철원읍 금강산로 265",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/32/4114332_image2_1.png",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "4095228",
       "title": "2026 남도 K-가든 페스티벌",
       "eventstartdate": "20260911",
@@ -452,33 +432,13 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "2392105",
-      "title": "2026 달성 대구현대미술제  Movement: Flow-Ringer-Flux",
-      "eventstartdate": "20260911",
-      "eventenddate": "20261011",
-      "addr1": "대구광역시 달성군 다사읍 강정본길 57",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/09/4086009_image2_1.png",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3099365",
-      "title": "Colorful Garden 자라섬 꽃 페스타",
+      "contentid": "3352029",
+      "title": "포천 한탄강 가든페스타",
       "eventstartdate": "20260912",
-      "eventenddate": "20261005",
-      "addr1": "경기도 가평군 가평읍 자라섬로 60",
+      "eventenddate": "20261101",
+      "addr1": "경기도 포천시 관인면 창동로 832",
       "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/49/4102849_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3528062",
-      "title": "제18회 서울건축문화제",
-      "eventstartdate": "20260915",
-      "eventenddate": "20261011",
-      "addr1": "서울특별시 중구 세종대로 119 (태평로1가)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/75/4103175_image2_1.png",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/47/4114547_image2_1.jpeg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -489,16 +449,6 @@ const festivalData = {
       "addr1": "경상북도 칠곡군 왜관읍 중앙로8길 10",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/94/4110194_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2746930",
-      "title": "감악산 꽃별 여행",
-      "eventstartdate": "20260918",
-      "eventenddate": "20261011",
-      "addr1": "경상남도 거창군 신원면 연수사길 452",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/19/3539719_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -532,16 +482,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "2751090",
-      "title": "수원화성 미디어아트",
-      "eventstartdate": "20260919",
-      "eventenddate": "20261006",
-      "addr1": "경기도 수원시 팔달구 장안동",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/48/4076248_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "3355698",
       "title": "한강수계 걷기행사",
       "eventstartdate": "20260919",
@@ -549,16 +489,6 @@ const festivalData = {
       "addr1": "경기도 가평군 가평읍 대곡리 174-3",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/96/4105196_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3497353",
-      "title": "2026 부산바다도서관",
-      "eventstartdate": "20260919",
-      "eventenddate": "20261011",
-      "addr1": "부산광역시 사하구 다대동 1674",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/07/4106907_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -582,16 +512,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "780198",
-      "title": "하동 북천 코스모스 메밀꽃 축제",
-      "eventstartdate": "20260922",
-      "eventenddate": "20261005",
-      "addr1": "경상남도 하동군 북천면 경서대로 2253-9",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/54/4113254_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "2737313",
       "title": "2026섬진강국제실험예술제(SIEAF)",
       "eventstartdate": "20260922",
@@ -602,20 +522,10 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "3011178",
-      "title": "원주용수골가을꽃축제",
-      "eventstartdate": "20260923",
-      "eventenddate": "20261005",
-      "addr1": "강원특별자치도 원주시 판부면 용수골길 311",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/72/4114672_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "2618014",
       "title": "인제가을꽃축제",
       "eventstartdate": "20260924",
-      "eventenddate": "20261011",
+      "eventenddate": "20261018",
       "addr1": "강원특별자치도 인제군 북면 용대리",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/47/4109647_image2_1.jpg",
@@ -632,116 +542,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "2992940",
-      "title": "계룡軍문화축제",
-      "eventstartdate": "20261001",
-      "eventenddate": "20261005",
-      "addr1": "충청남도 계룡시 신도안면 석계리 계룡대 활주로",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/51/4106751_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "1725993",
-      "title": "고양가을꽃축제",
-      "eventstartdate": "20261001",
-      "eventenddate": "20261011",
-      "addr1": "경기도 고양시 일산동구 호수로 595",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/34/4110534_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "574285",
-      "title": "김제지평선축제",
-      "eventstartdate": "20261001",
-      "eventenddate": "20261005",
-      "addr1": "전북특별자치도 김제시 부량면 벽골제로 442",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/54/3516354_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "229054",
-      "title": "지상군페스티벌",
-      "eventstartdate": "20261001",
-      "eventenddate": "20261005",
-      "addr1": "충청남도 계룡시 신도안면 석계리",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/03/4091903_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "506935",
-      "title": "천안흥타령춤축제",
-      "eventstartdate": "20261001",
-      "eventenddate": "20261005",
-      "addr1": "충청남도 천안시 서북구 번영로 208 (백석동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/35/4056635_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3006246",
-      "title": "2026 부산국제공연예술마켓(BPAM)",
-      "eventstartdate": "20261001",
-      "eventenddate": "20261007",
-      "addr1": "부산광역시 해운대구 센텀중앙로 55 (우동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/33/4109933_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "421977",
-      "title": "고성명태축제",
-      "eventstartdate": "20261002",
-      "eventenddate": "20261005",
-      "addr1": "강원특별자치도 고성군 거진읍 해오름해변길 125",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/00/4102200_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "1846797",
-      "title": "군산시간여행축제",
-      "eventstartdate": "20261002",
-      "eventenddate": "20261005",
-      "addr1": "전북특별자치도 군산시 중앙로1가",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/48/3561448_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "506465",
-      "title": "금산세계인삼축제",
-      "eventstartdate": "20261002",
-      "eventenddate": "20261011",
-      "addr1": "충청남도 금산군 금산읍 인삼광장로 30",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/59/3524159_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "506600",
-      "title": "산청한방약초축제",
-      "eventstartdate": "20261002",
-      "eventenddate": "20261011",
-      "addr1": "경상남도 산청군 금서면 동의보감로555번길 45-6",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/88/3523088_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "506690",
-      "title": "안성맞춤 남사당 바우덕이축제",
-      "eventstartdate": "20261002",
-      "eventenddate": "20261005",
-      "addr1": "경기도 안성시 보개면 남사당로 198",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/93/4091593_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "3011948",
       "title": "양재아트살롱",
       "eventstartdate": "20261002",
@@ -752,83 +552,13 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "613316",
-      "title": "청원생명축제",
-      "eventstartdate": "20261002",
-      "eventenddate": "20261011",
-      "addr1": "충청북도 청주시 청원구 오창읍 미래지로 99",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/14/3549714_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4114185",
-      "title": "2026 광주미식주간",
-      "eventstartdate": "20261002",
-      "eventenddate": "20261011",
-      "addr1": "전남광주통합특별시 동구 문화전당로 38 (광산동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/90/4114190_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3546110",
-      "title": "2026 서울한옥위크",
-      "eventstartdate": "20261002",
-      "eventenddate": "20261011",
-      "addr1": "서울특별시 종로구 계동길 37 (계동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/69/4113269_image2_1.png",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "737479",
-      "title": "강남페스티벌",
+      "contentid": "4117505",
+      "title": "국가유산 미디어아트 청주",
       "eventstartdate": "20261003",
-      "eventenddate": "20261005",
-      "addr1": "서울특별시 강남구 도산대로 320 (논현동)",
+      "eventenddate": "20261024",
+      "addr1": "충청북도 청주시 상당구 남문로2가 48-19",
       "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/43/4101843_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "234235",
-      "title": "단양온달문화축제",
-      "eventstartdate": "20261003",
-      "eventenddate": "20261005",
-      "addr1": "충청북도 단양군 영춘면 온달로 23",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/75/4111675_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "952988",
-      "title": "백제문화제",
-      "eventstartdate": "20261003",
-      "eventenddate": "20261011",
-      "addr1": "충청남도 부여군 부여읍 정림로 83",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/55/4098555_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "1398149",
-      "title": "삼랑성역사문화축제",
-      "eventstartdate": "20261003",
-      "eventenddate": "20261011",
-      "addr1": "인천광역시 강화군 길상면 전등사로 37-41",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/15/4112915_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "506766",
-      "title": "영주 풍기인삼축제",
-      "eventstartdate": "20261003",
-      "eventenddate": "20261011",
-      "addr1": "경상북도 영주시 풍기읍 성내리",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/55/3563955_image2_1.jpg",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/06/4117506_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -852,76 +582,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "914138",
-      "title": "수원화성문화제",
-      "eventstartdate": "20261004",
-      "eventenddate": "20261011",
-      "addr1": "경기도 수원시 팔달구 정조로 825 (남창동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/90/4060890_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3011445",
-      "title": "2026 크리에이티브X성수",
-      "eventstartdate": "20261005",
-      "eventenddate": "20261011",
-      "addr1": "서울특별시 성동구 연무장15길 11 (성수동2가)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/57/4101257_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "692682",
-      "title": "광주 추억의 충장축제",
-      "eventstartdate": "20261007",
-      "eventenddate": "20261011",
-      "addr1": "전남광주통합특별시 동구 금남로3가",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/71/3584471_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2990881",
-      "title": "광주버스킹월드컵",
-      "eventstartdate": "20261007",
-      "eventenddate": "20261011",
-      "addr1": "전남광주통합특별시 동구 금남로1가 41 금남지하상가",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/63/4076763_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "1998564",
-      "title": "궁중문화축전",
-      "eventstartdate": "20261007",
-      "eventenddate": "20261011",
-      "addr1": "서울특별시 종로구 사직로 161",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/82/4108782_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3009344",
-      "title": "나주영산강축제",
-      "eventstartdate": "20261007",
-      "eventenddate": "20261011",
-      "addr1": "전남광주통합특별시 나주시 영산동",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/44/4100044_image2_1.png",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "232325",
-      "title": "횡성한우축제",
-      "eventstartdate": "20261007",
-      "eventenddate": "20261011",
-      "addr1": "강원특별자치도 횡성군 횡성읍 북천리",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/42/4064642_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "4112672",
       "title": "2026 D.FESTA 소극장축제",
       "eventstartdate": "20261007",
@@ -929,86 +589,6 @@ const festivalData = {
       "addr1": "서울특별시 종로구 대학로 120 (동숭동)",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/99/4115099_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "1322668",
-      "title": "곡성심청어린이대축제",
-      "eventstartdate": "20261008",
-      "eventenddate": "20261011",
-      "addr1": "전남광주통합특별시 곡성군 오곡면 기차마을로 232",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/68/4108468_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2666388",
-      "title": "아이가 행복입니다 S9",
-      "eventstartdate": "20261008",
-      "eventenddate": "20261009",
-      "addr1": "서울특별시 송파구 올림픽로 300 (신천동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/63/4110963_image2_1.png",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2855326",
-      "title": "우륵문화제",
-      "eventstartdate": "20261008",
-      "eventenddate": "20261011",
-      "addr1": "충청북도 충주시 남한강로 26 (금릉동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/73/3536373_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2986930",
-      "title": "울산공업축제",
-      "eventstartdate": "20261008",
-      "eventenddate": "20261011",
-      "addr1": "울산광역시 남구 신정동",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/57/4116557_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2031318",
-      "title": "임실N치즈축제",
-      "eventstartdate": "20261008",
-      "eventenddate": "20261011",
-      "addr1": "전북특별자치도 임실군 성수면 도인2길 50",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/09/4115109_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "506838",
-      "title": "전주한지문화축제",
-      "eventstartdate": "20261008",
-      "eventenddate": "20261010",
-      "addr1": "전북특별자치도 전주시 완산구 현무1길 20 (경원동3가)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/31/4112731_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "790124",
-      "title": "홍천 인삼한우 명품축제",
-      "eventstartdate": "20261008",
-      "eventenddate": "20261011",
-      "addr1": "강원특별자치도 홍천군 홍천읍 갈마곡리",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/66/3561066_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4114312",
-      "title": "강릉 빵굽는 마을, 오죽",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "강원특별자치도 강릉시 죽헌길 114 (죽헌동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/13/4114313_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1022,253 +602,23 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "3364857",
-      "title": "군산짬뽕페스티벌",
+      "contentid": "3113045",
+      "title": "파주페어 북앤컬처",
       "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "전북특별자치도 군산시 장미동 13-1",
+      "eventenddate": "20261018",
+      "addr1": "경기도 파주시 회동길 145 (문발동)",
       "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/49/4107749_image2_1.jpg",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/24/4110424_image2_1.JPG",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "4116376",
-      "title": "기장 임랑 웰니스 관광축제",
+      "contentid": "4119230",
+      "title": "포항 낙화의 밤",
       "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "부산 기장군 장안읍 임랑리 145(장안읍)",
+      "eventenddate": "20261017",
+      "addr1": "경상북도 포항시 남구 축항로 45 (해도동)",
       "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/77/4116377_image2_1.png",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2034121",
-      "title": "기장읍성축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "부산광역시 기장군 기장읍 읍내로68번길 23-1",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/14/4116714_image2_1.png",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4109893",
-      "title": "담양 국가유산야행",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261010",
-      "addr1": "전남광주통합특별시 담양군 담양읍 객사7길 37",
-      "type": "heritage_night",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/97/4109897_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2488086",
-      "title": "대전 서구 아트페스티벌",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261012",
-      "addr1": "대전광역시 서구 둔산동 1544",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/21/4117021_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "1726052",
-      "title": "독일마을 맥주축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "경상남도 남해군 삼동면 독일로 89-7",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/20/4116920_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "141236",
-      "title": "생거진천 문화축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "충청북도 진천군 진천읍 읍내리",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/74/4104074_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "140752",
-      "title": "서산해미읍성축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "충청남도 서산시 해미면 남문2로 143",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/76/4113676_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "1849007",
-      "title": "세종한글축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "세종특별자치시 다솜로 216 (세종동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/16/3553216_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2828336",
-      "title": "시흥월곶포구축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "경기도 시흥시 월곶해안로 188 (월곶동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/77/4089877_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4117047",
-      "title": "양평부추축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261010",
-      "addr1": "경기도 양평군 양동면 양동역길 20-4",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/36/4117136_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "639993",
-      "title": "연산대추문화축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "충청남도 논산시 연산면 선비로275번길 31-2",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/02/4108002_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2849159",
-      "title": "연수 능허대 문화축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261010",
-      "addr1": "인천 연수구 선학동 231-3",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/51/4108751_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2877244",
-      "title": "웰컴투신관동",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261010",
-      "addr1": "충청남도 공주시 공주대학로 92 (신관동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/03/4081503_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2559193",
-      "title": "이천인삼건강축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "경기도 이천시 신둔면 둔터로124번길 160",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/17/3524017_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2989642",
-      "title": "제76주년 K-밀리터리 페스티벌：춘천대첩",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "강원특별자치도 춘천시 삼천동 200-9",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/13/4113213_image2_1.png",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2622679",
-      "title": "제8회 예천국제스마트폰영화제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "경상북도 예천군 호명읍 산합리 73",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/26/4059026_image2_1.jpeg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2560824",
-      "title": "제주광어대축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "제주특별자치도 제주시 연삼로 166 (오라이동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/89/3541489_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4111666",
-      "title": "천안 북 페스티벌",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261009",
-      "addr1": "충청남도 천안시 동남구 충절로 410 (삼룡동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/69/4111669_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2854507",
-      "title": "청정완도 가을 섬 여행",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "전남광주통합특별시 완도군 해변공원로 52",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/02/4115602_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4060158",
-      "title": "한강 서래섬 피크닉 콘서트",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "서울특별시 서초구 신반포로11길 40 (반포동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/99/4117199_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3377048",
-      "title": "합천황토한우축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "경상남도 합천군 합천읍 문화로 62",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/63/4115763_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3370635",
-      "title": "화순적벽문화축제",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261010",
-      "addr1": "전남광주통합특별시 화순군 이서면 백아로 3114",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/89/4106489_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4087092",
-      "title": "2026 GHOST(경기 한류 OST) 페스티벌",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261011",
-      "addr1": "경기도 파주시 문산읍 임진각로 148-40",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/98/4087098_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3369503",
-      "title": "2026 광주사운드파크페스티벌",
-      "eventstartdate": "20261009",
-      "eventenddate": "20261010",
-      "addr1": "전남광주통합특별시 남구 사직길 49 (사동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/93/4115193_image2_1.jpg",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/31/4119231_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1282,86 +632,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "3532372",
-      "title": "대전 중구 북페스티벌",
-      "eventstartdate": "20261010",
-      "eventenddate": "20261011",
-      "addr1": "대전광역시 중구 중앙로 85 (선화동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/83/4081183_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2846034",
-      "title": "안양청년축제",
-      "eventstartdate": "20261010",
-      "eventenddate": "20261010",
-      "addr1": "경기도 안양시 동안구 관평로 149 (평촌동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/82/4116882_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3544873",
-      "title": "유성독서대전",
-      "eventstartdate": "20261010",
-      "eventenddate": "20261011",
-      "addr1": "대전광역시 유성구 어은로 27 (봉명동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/65/4109965_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2757751",
-      "title": "제6회 전주거리인형극제",
-      "eventstartdate": "20261010",
-      "eventenddate": "20261011",
-      "addr1": "전북특별자치도 전주시 완산구 은행로 65-8 (교동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/43/4113843_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "1620571",
-      "title": "포은문화제",
-      "eventstartdate": "20261010",
-      "eventenddate": "20261011",
-      "addr1": "경기도 용인시 처인구 모현면 능곡로 45",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/02/4116102_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4113826",
-      "title": "2026 진안고원 포레스티벌",
-      "eventstartdate": "20261010",
-      "eventenddate": "20261011",
-      "addr1": "전북특별자치도 진안군 백운면 백운동로 473",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/33/4113833_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3001045",
-      "title": "2026 한강 종이비행기 축제",
-      "eventstartdate": "20261010",
-      "eventenddate": "20261010",
-      "addr1": "서울특별시 영등포구 여의도동",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/57/4115157_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4099133",
-      "title": "2026 로컬 그라운드 연남",
-      "eventstartdate": "20261011",
-      "eventenddate": "20261011",
-      "addr1": "서울특별시 마포구 동교로 262-6 (연남동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/13/4115113_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "2987791",
       "title": "2026 DMZ OPEN 페스티벌",
       "eventstartdate": "20261012",
@@ -1369,6 +639,16 @@ const festivalData = {
       "addr1": "경기도 파주시 문산읍 임진각로 148-40",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/23/4116823_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "3011280",
+      "title": "2026 서울디자인위크",
+      "eventstartdate": "20261014",
+      "eventenddate": "20261025",
+      "addr1": "서울특별시 중구 을지로 281 (을지로7가)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/13/4104213_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1472,6 +752,16 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "2855626",
+      "title": "허심청브로이 옥토버페스트",
+      "eventstartdate": "20261015",
+      "eventenddate": "20261017",
+      "addr1": "부산광역시 동래구 금강공원로20번길 23 호텔농심",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/35/4105335_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "3343831",
       "title": "2026 대한민국 AI 콘텐츠 어워즈",
       "eventstartdate": "20261015",
@@ -1492,6 +782,16 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "3379778",
+      "title": "가락 옥토버페스트",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261018",
+      "addr1": "서울특별시 송파구 양재대로 932 (가락동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/73/3553073_image2_1.png",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "1307813",
       "title": "강동선사문화축제",
       "eventstartdate": "20261016",
@@ -1499,6 +799,16 @@ const festivalData = {
       "addr1": "서울특별시 강동구 올림픽로 875 (암사동)",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/75/4114675_image2_1.JPG",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "2759249",
+      "title": "경산 대추축제 & 농산물 한마당",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261018",
+      "addr1": "경상북도 경산시 남매로 100 (상방동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/24/3566324_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1512,6 +822,16 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "1275743",
+      "title": "금정산성축제",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261018",
+      "addr1": "부산광역시 금정구 산성로 501-2 (금성동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/56/4090456_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "1719667",
       "title": "낙동강 구포나루 축제",
       "eventstartdate": "20261016",
@@ -1519,6 +839,16 @@ const festivalData = {
       "addr1": "부산광역시 북구 낙동강자전거길 1455 (덕천동)",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/63/4115163_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "2396313",
+      "title": "대구 국가유산야행",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261017",
+      "addr1": "대구광역시 중구 달성로 56 (동산동)",
+      "type": "heritage_night",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/77/4118477_image2_1.png",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1552,6 +882,46 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "2933008",
+      "title": "부안붉은노을축제",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261018",
+      "addr1": "전북특별자치도 부안군 변산면 대항리",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/06/4107306_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "229057",
+      "title": "서울와우북페스티벌",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261018",
+      "addr1": "서울특별시 마포구 서교동 348-24",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/76/4117576_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "3380662",
+      "title": "세계문화유산 화순 고인돌 가을꽃 축제",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261025",
+      "addr1": "전남광주통합특별시 화순군 도곡면 고인돌1로 180",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/97/3547597_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "2485123",
+      "title": "순천 푸드앤아트페스티벌",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261018",
+      "addr1": "전남광주통합특별시 순천시 중앙로 93 (영동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/23/4119023_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "506708",
       "title": "양양송이연어축제",
       "eventstartdate": "20261016",
@@ -1559,6 +929,16 @@ const festivalData = {
       "addr1": "강원특별자치도 양양군 양양읍 일출로 589",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/70/4114370_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "2870929",
+      "title": "연천 국화축제",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261025",
+      "addr1": "경기도 연천군 전곡읍 양연로 1510",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/43/4117543_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1582,6 +962,16 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "3007256",
+      "title": "정관생태하천학습문화축제",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261018",
+      "addr1": "부산광역시 기장군 정관읍 구연3로 27",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/32/4097232_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "142233",
       "title": "정동문화축제",
       "eventstartdate": "20261016",
@@ -1592,6 +982,16 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "1399407",
+      "title": "청도반시축제",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261018",
+      "addr1": "경상북도 청도군 화양읍 청려로 1846",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/14/4118614_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "3020205",
       "title": "호캠프 리턴즈",
       "eventstartdate": "20261016",
@@ -1599,6 +999,16 @@ const festivalData = {
       "addr1": "충청북도 옥천군 청성면 한두레로 387",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/22/4104222_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "1621746",
+      "title": "화도진 축제",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261017",
+      "addr1": "인천광역시 제물포구 화도진로 53 (송현동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/46/4119046_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1622,23 +1032,23 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "3014969",
+      "title": "2026 문화의 달 여수",
+      "eventstartdate": "20261016",
+      "eventenddate": "20261019",
+      "addr1": "전남광주통합특별시 여수시 이순신광장로 188-1 (종화동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/99/4119199_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "2488793",
       "title": "2026 서울도시농업박람회",
       "eventstartdate": "20261016",
       "eventenddate": "20261017",
       "addr1": "서울특별시 성동구 뚝섬로 273 (성수동1가)",
       "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/03/4114603_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2667707",
-      "title": "2026 제14회 경기정원문화박람회",
-      "eventstartdate": "20261016",
-      "eventenddate": "20261019",
-      "addr1": "경기도 양평군 양서면 양수로 93",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/89/4099089_image2_1.jpg",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/23/4119223_image2_1.png",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1649,6 +1059,26 @@ const festivalData = {
       "addr1": "전북특별자치도 익산시 함열읍 익산대로78길 137",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/11/4096811_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "3017799",
+      "title": "구미푸드페스티벌",
+      "eventstartdate": "20261017",
+      "eventenddate": "20261018",
+      "addr1": "경상북도 구미시 송정동",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/48/4063648_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "2761411",
+      "title": "금천하모니축제",
+      "eventstartdate": "20261017",
+      "eventenddate": "20261018",
+      "addr1": "서울특별시 금천구 시흥대로73길 70 (시흥동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/92/3483192_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1682,6 +1112,16 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "2770434",
+      "title": "대전 빵 축제",
+      "eventstartdate": "20261017",
+      "eventenddate": "20261018",
+      "addr1": "대전광역시 유성구 대덕대로 480 (도룡동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/45/4110945_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "4116560",
       "title": "동물행복페스타",
       "eventstartdate": "20261017",
@@ -1689,6 +1129,26 @@ const festivalData = {
       "addr1": "서울특별시 영등포구 여의도동 83-6",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/64/4116564_image2_1.png",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "4118276",
+      "title": "모이랑께 가보장께",
+      "eventstartdate": "20261017",
+      "eventenddate": "20261017",
+      "addr1": "전북특별자치도 전주시 완산구 풍남문3길 1 (전동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/51/4120351_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "635451",
+      "title": "문경사과축제",
+      "eventstartdate": "20261017",
+      "eventenddate": "20261101",
+      "addr1": "경상북도 문경시 문경읍 새재로 932",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/15/4116815_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1709,6 +1169,16 @@ const festivalData = {
       "addr1": "경기도 화성시 병점구 효행로481번길 21 (안녕동)",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/65/4106565_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "3544911",
+      "title": "수봉산 페스티벌",
+      "eventstartdate": "20261017",
+      "eventenddate": "20261018",
+      "addr1": "인천광역시 미추홀구 수봉안길 84 (숭의동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/40/4116440_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1742,6 +1212,16 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "3373572",
+      "title": "황매산 억새축제",
+      "eventstartdate": "20261017",
+      "eventenddate": "20261025",
+      "addr1": "경상남도 합천군 가회면 황매산공원길 331",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/85/3540985_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "4113301",
       "title": "2026 렉키의 수상한 피크닉",
       "eventstartdate": "20261017",
@@ -1759,6 +1239,16 @@ const festivalData = {
       "addr1": "충청남도 천안시 서북구 번영로 208 (백석동)",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/97/4114397_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "3554702",
+      "title": "2026 원도심 야간여행 ‘섬夜시즌’",
+      "eventstartdate": "20261017",
+      "eventenddate": "20261018",
+      "addr1": "제주특별자치도 제주시 중앙로 1 (건입동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/47/4119747_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1782,13 +1272,23 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "2833186",
+      "title": "MOIM International",
+      "eventstartdate": "20261017",
+      "eventenddate": "20261017",
+      "addr1": "경기도 시흥시 시청로 20 (장현동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/59/4104859_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "4115096",
-      "title": "달려라부산 행운의뽑기런",
+      "title": "달려라부산 행운미션런",
       "eventstartdate": "20261018",
       "eventenddate": "20261018",
       "addr1": "부산광역시 동래구 명륜동 750",
       "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/11/4115611_image2_1.jpg",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/32/4119232_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1832,26 +1332,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "234232",
-      "title": "사천에어쇼",
-      "eventstartdate": "20261022",
-      "eventenddate": "20261025",
-      "addr1": "경상남도 사천시 사천읍 정의리",
-      "type": "festival",
-      "firstimage": "http://tong.visitkorea.or.kr/cms/resource/49/3566649_image2_1.png",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2558866",
-      "title": "예산장터 삼국축제",
-      "eventstartdate": "20261022",
-      "eventenddate": "20261025",
-      "addr1": "충청남도 예산군 예산읍 예산시장길 2",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/59/4095359_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "1075049",
       "title": "제17회 광주국제아트페어 《아트광주》",
       "eventstartdate": "20261022",
@@ -1859,16 +1339,6 @@ const festivalData = {
       "addr1": "전남광주통합특별시 서구 상무누리로 30 (치평동)",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/90/4105890_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "4046174",
-      "title": "치악산 한우축제",
-      "eventstartdate": "20261022",
-      "eventenddate": "20261025",
-      "addr1": "강원특별자치도 원주시 단구로 170",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/93/4095093_image2_1.png",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1892,36 +1362,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "638576",
-      "title": "대한민국 국향대전",
-      "eventstartdate": "20261023",
-      "eventenddate": "20261108",
-      "addr1": "전남광주통합특별시 함평군 함평읍 곤재로 27",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/06/4114406_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2828537",
-      "title": "떡볶이 페스티벌",
-      "eventstartdate": "20261023",
-      "eventenddate": "20261025",
-      "addr1": "대구광역시 북구 고성로 191 (고성동3가)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/94/4102394_image2_1.JPG",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2484237",
-      "title": "라라라 페스티벌",
-      "eventstartdate": "20261023",
-      "eventenddate": "20261025",
-      "addr1": "부산광역시 금정구 장전온천천로 48 (장전동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/94/4110494_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "506616",
       "title": "서귀포칠십리축제",
       "eventstartdate": "20261023",
@@ -1942,13 +1382,13 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "2591661",
-      "title": "연천율무축제",
+      "contentid": "3017778",
+      "title": "울산 중구 국가유산야행",
       "eventstartdate": "20261023",
       "eventenddate": "20261025",
-      "addr1": "경기도 연천군 전곡읍 전곡리",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/82/4105782_image2_1.jpg",
+      "addr1": "울산광역시 중구 동헌길 167 (북정동)",
+      "type": "heritage_night",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/10/4119210_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -1982,13 +1422,13 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "2435280",
-      "title": "강진만 춤추는 갈대축제",
-      "eventstartdate": "20261024",
-      "eventenddate": "20261101",
-      "addr1": "전남광주통합특별시 강진군 강진읍 생태공원길 47",
+      "contentid": "3340301",
+      "title": "2026 탄소중립 흙살리기 박람회",
+      "eventstartdate": "20261023",
+      "eventenddate": "20261025",
+      "addr1": "전남광주통합특별시 구례군 구례읍 서시천로 84-11",
       "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/37/4115237_image2_1.JPG",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/66/4116966_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -2002,26 +1442,6 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
-      "contentid": "3016659",
-      "title": "부산종합민속예술제",
-      "eventstartdate": "20261024",
-      "eventenddate": "20261025",
-      "addr1": "부산광역시 부산진구 시민공원로 73 (범전동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/75/4113275_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "3521741",
-      "title": "서울 바비큐 페스티벌",
-      "eventstartdate": "20261024",
-      "eventenddate": "20261025",
-      "addr1": "서울특별시 마포구 한강난지로 28 (상암동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/47/4107447_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
       "contentid": "3522322",
       "title": "오슬로우 빈티지 마켓",
       "eventstartdate": "20261024",
@@ -2029,26 +1449,6 @@ const festivalData = {
       "addr1": "인천광역시 제물포구 제물량로218번길 3 (해안동1가)",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/32/4106932_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "627825",
-      "title": "정읍사문화제",
-      "eventstartdate": "20261024",
-      "eventenddate": "20261025",
-      "addr1": "전북특별자치도 정읍시 정읍사로 541 (시기동)",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/55/4115055_image2_1.jpg",
-      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
-    },
-    {
-      "contentid": "2867300",
-      "title": "평택 원평나루 억새축제",
-      "eventstartdate": "20261024",
-      "eventenddate": "20261024",
-      "addr1": "경기도 평택시 평택동 238-2",
-      "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/71/4116771_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -2089,6 +1489,26 @@ const festivalData = {
       "addr1": "인천광역시 미추홀구 매소홀로 120 (용현동)",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/18/4115118_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "3382929",
+      "title": "2026 지리산걷기축제 ‘지리산소풍’",
+      "eventstartdate": "20261024",
+      "eventenddate": "20261024",
+      "addr1": "경상남도 산청군 산청읍 웅석봉로86번길 7",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/18/4119718_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "1748721",
+      "title": "2026 포항스틸아트페스티벌 (2026PSAF)",
+      "eventstartdate": "20261024",
+      "eventenddate": "20261115",
+      "addr1": "경상북도 포항시 북구 선착로 78 (동빈1가)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/02/4117502_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -2149,6 +1569,16 @@ const festivalData = {
       "addr1": "충청남도 홍성군 홍성읍 아문길 27",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/30/4103630_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "2873292",
+      "title": "부산글로벌웹툰페스티벌",
+      "eventstartdate": "20261030",
+      "eventenddate": "20261101",
+      "addr1": "부산광역시 해운대구 수영강변대로 140 (우동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/58/4119058_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -2286,7 +1716,7 @@ const festivalData = {
       "title": "구미라면 축제",
       "eventstartdate": "20261106",
       "eventenddate": "20261108",
-      "addr1": "경상북도 구미시 원평동",
+      "addr1": "경상북도 구미시 역전로",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/40/3497640_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
@@ -2338,7 +1768,7 @@ const festivalData = {
       "eventenddate": "20261108",
       "addr1": "전북특별자치도 익산시 인북로12길 28 (주현동)",
       "type": "festival",
-      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/52/4116752_image2_1.jpg",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/68/4118568_image2_1.jpg",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
@@ -2422,6 +1852,16 @@ const festivalData = {
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
+      "contentid": "1129018",
+      "title": "2026 인천국제디자인페어(INDEF)",
+      "eventstartdate": "20261120",
+      "eventenddate": "20261122",
+      "addr1": "인천광역시 남동구 예술로 149 (구월동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/00/4118300_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
       "contentid": "4101384",
       "title": "20세기 사진 거장전 - 빛, 시간을 멈추다",
       "eventstartdate": "20261120",
@@ -2439,6 +1879,16 @@ const festivalData = {
       "addr1": "경기도 수원시 권선구 세화로134번길 37 (서둔동)",
       "type": "festival",
       "firstimage": "https://tong.visitkorea.or.kr/cms/resource/09/4106209_image2_1.jpg",
+      "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
+    },
+    {
+      "contentid": "2410727",
+      "title": "2026 보드게임페스타(시즌2)",
+      "eventstartdate": "20261121",
+      "eventenddate": "20261122",
+      "addr1": "서울특별시 강남구 남부순환로 3104 (대치동)",
+      "type": "festival",
+      "firstimage": "https://tong.visitkorea.or.kr/cms/resource/27/4118327_image2_1.png",
       "description": "한국관광공사 제공 일정 · 방문 전 주최 측 공지를 확인하세요."
     },
     {
